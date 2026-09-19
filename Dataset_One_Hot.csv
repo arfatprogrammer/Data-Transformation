@@ -1,0 +1,11 @@
+﻿Student_ID,Gender,City,Course,Marks,Passed
+101,Male,Mumbai,Python,90,Yes
+102,Female,Pune,Java,29,No
+103,Male,Nagpur,C++,95,Yes
+104,Female,Mumbai,Python,80,Yes
+105,Male,Pune,Java,28,No
+106,Female,Aurangabad,C++,85,Yes
+107,Male,Nagpur,Python,25,No
+108,Female,Mumbai,Java,70,Yes
+109,Male,Pune,C++,80,Yes
+110,Female,Aurangabad,Python,22,No
